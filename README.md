@@ -7,5 +7,8 @@ Repository Highlights:
 🎓 Diverse Challenges: Tackling various SQL challenges that spanned customer data, transactions, and menu analytics.
 🌐 Real-World Problem Solving: Applying SQL skills to address practical scenarios, enhancing problem-solving abilities.
 📈 Query Proficiency: Demonstrating proficiency in writing SQL queries for insightful data analysis.
+
+
 Gratitude to Data with Danny:
+
 A heartfelt thanks to @DataWithDanny for creating these engaging SQL case studies! 👏🏻 Your challenges have not only honed my SQL skills but also made learning a delightful journey.
